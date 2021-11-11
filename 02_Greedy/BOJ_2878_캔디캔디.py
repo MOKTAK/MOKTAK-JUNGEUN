@@ -1,6 +1,6 @@
 '''
 https://www.acmicpc.net/problem/2878
-
+ 
 시작 21.11.11 01:37
 
 '''

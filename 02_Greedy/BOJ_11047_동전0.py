@@ -1,6 +1,6 @@
 '''idea
 https://www.acmicpc.net/problem/11047
-
+ 
 시작 21.11.10 12:07
 종료 21.11.10 12:28
 
